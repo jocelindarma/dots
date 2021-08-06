@@ -1,2 +1,2 @@
 # dots
-my macOS dots
+my macOS dotfiles
